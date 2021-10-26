@@ -1,0 +1,71 @@
+{
+    "header": {
+        "headerVariant": "variant-a",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "backgroundWidth": "full",
+        "title": "lorem-ipsum",
+        "isTitleVisible": false,
+        "logo": {
+            "altText": "lorem-ipsum",
+            "caption": "lorem-ipsum",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock"
+        },
+        "primaryLinks": [],
+        "secondaryLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-5",
+                    "pb-5"
+                ]
+            }
+        }
+    },
+    "footer": {
+        "colors": "colors-a",
+        "backgroundWidth": "full",
+        "logo": {
+            "altText": "lorem-ipsum",
+            "caption": "lorem-ipsum",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock"
+        },
+        "title": "lorem-ipsum",
+        "text": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "contacts": {
+            "phoneNumber": "lorem-ipsum",
+            "phoneAltText": "lorem-ipsum",
+            "email": "lorem-ipsum",
+            "emailAltText": "lorem-ipsum",
+            "address": "lorem-ipsum",
+            "addressAltText": "lorem-ipsum",
+            "elementId": ""
+        },
+        "copyrightText": "## Lorem ipsum\n\nLorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.\n\n- Lorem ipsum\n- dolor sit amet",
+        "primaryLinks": [],
+        "socialLinks": [],
+        "legalLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16"
+                ]
+            }
+        }
+    }
+}
