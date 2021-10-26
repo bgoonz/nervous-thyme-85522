@@ -9,7 +9,8 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "altText": "Logo"
+            "altText": "Logo",
+            "url": "/images/contact.png"
         },
         "primaryLinks": [
             {
