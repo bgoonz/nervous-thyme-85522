@@ -9,7 +9,7 @@
         "isTitleVisible": true,
         "logo": {
             "type": "ImageBlock",
-            "url": "/images/logo.svg",
+            "url": "/images/circle-cropped.png",
             "altText": "Logo"
         },
         "primaryLinks": [
