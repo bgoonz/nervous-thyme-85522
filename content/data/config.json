@@ -10,7 +10,7 @@
         "logo": {
             "type": "ImageBlock",
             "altText": "Logo",
-            "url": "/images/bryan3.png"
+            "url": "/images/mini-logo.png"
         },
         "primaryLinks": [
             {
